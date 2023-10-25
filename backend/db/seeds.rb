@@ -14,6 +14,8 @@
     )
 end
 
+#etf
+
 100.times do |i|
     Comment.create(
         body: "comment",
